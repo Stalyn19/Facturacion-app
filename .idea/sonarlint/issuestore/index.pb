@@ -5,7 +5,15 @@ Usrc/main/java/com/bolsadeideas/springboot/backend/apirest/models/dao/IFacturaDa
 bsrc/main/java/com/bolsadeideas/springboot/backend/apirest/SpringBootBackendApirestApplication.java,7\9\797a629273e0d2868b96a271f80134a4ecdd7dc5
 É
 Ssrc/main/java/com/bolsadeideas/springboot/backend/apirest/models/entity/Region.java,5\b\5bffaf64ea2d9ef8994760a8dd36831b691a83a1
-Ö
-Usrc/main/java/com/bolsadeideas/springboot/backend/apirest/models/dao/IClienteDao.java,f\2\f21b20ea0a70bab4e9a3bdb0c8d7bbd476548775
+ç
+]src/main/java/com/bolsadeideas/springboot/backend/apirest/models/services/UsuarioService.java,8\b\8b443f2d589682a70c1c21f31b217f88de9df01b
+ë
+asrc/main/java/com/bolsadeideas/springboot/backend/apirest/models/services/ClienteServiceImpl.java,7\8\788305a7dd86460e7c2a3f7697d1819eb3276f1b
+ê
+`src/main/java/com/bolsadeideas/springboot/backend/apirest/controllers/FacturaRestController.java,0\6\06d50ee378a2c8d0f3fe0c04b449f9e1d88fb076
+Ñ
+Tsrc/main/java/com/bolsadeideas/springboot/backend/apirest/models/entity/Cliente.java,5\b\5bd7a03a00624d48e1525f56897d3a8836661ebc
 ê
 `src/main/java/com/bolsadeideas/springboot/backend/apirest/controllers/ClienteRestController.java,6\e\6e6fa1cd246e97fcf7e3cb02225dbcfd0ea331da
+Ö
+Usrc/main/java/com/bolsadeideas/springboot/backend/apirest/models/dao/IClienteDao.java,f\2\f21b20ea0a70bab4e9a3bdb0c8d7bbd476548775
